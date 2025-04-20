@@ -57,6 +57,7 @@ For more details, check the `/guidelines` folder or contact us.
 - [Twitch](https://twitch.tv/zlightstudio)
 - [YouTube](https://youtube.com/@zlightstudio)
 - [Instagram](https://instagram.com/zlight.studio)
+- [Twitter/X](https://x.com/zlight_studio)
 
 ---
 
