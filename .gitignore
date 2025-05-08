@@ -1,0 +1,8 @@
+# Ignore Program files
+
+programs/OBS/*
+programs/GoXLR/*
+programs/Discord/*
+programs/Photoshop/*
+programs/Lightlink/*
+programs/Nanoleaf/*

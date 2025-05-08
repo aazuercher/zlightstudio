@@ -1,0 +1,14 @@
+behoppie x 5
+panicpenne x 5
+its_aprii x 5
+jkjunkrat x 20
+its_aprii x 5
+redhawkpistol13 x 5
+its_aprii x 1
+rickydac x 5
+its_aprii x 5
+stevethabreeze x 5
+destro__gaming x 1
+amast77 x 5
+D:\\Twitch\\Events\\2025\\StarWarsDay\\starwars_gifted2.txt
+        sendMessage(`🎉 Thank you ${gifter} for gifting 10+ subs! You're entered into the Lightsaber duel! 🚀`);

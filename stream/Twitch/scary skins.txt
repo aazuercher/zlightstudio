@@ -1,0 +1,28 @@
+scary skins
+
+Hush
+Willow
+Catrina
+Big Mouth
+Skull Squad Leader
+Grave
+Patch
+Punk
+Fishskull
+Gnash
+Skeletara
+Skulldrifter
+Undying Sorrow
+Straw Ops
+Salvador
+Jack Skellington
+Sinister Glare
+Zadie
+
+.wheel-item:nth-child(odd) {
+--item-bg: #eb5505
+!important}
+
+.wheel-item:nth-child(even) {
+--item-bg: #f29c6e
+!important}
