@@ -4,3 +4,6 @@ Gifted,jkjunkrat,5
 Bits,its_aprii,100
 
 Gifted,kbos414,10
+Subscriber,kbos414,Tier2
+Subscriber,dreambig8254,Prime
+Gifted,jkjunkrat,5
