@@ -7,3 +7,4 @@ Gifted,kbos414,10
 Subscriber,kbos414,Tier2
 Subscriber,dreambig8254,Prime
 Gifted,jkjunkrat,5
+Gifted,undefined,1
