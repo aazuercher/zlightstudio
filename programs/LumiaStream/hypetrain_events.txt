@@ -8,3 +8,13 @@ Subscriber,kbos414,Tier2
 Subscriber,dreambig8254,Prime
 Gifted,jkjunkrat,5
 Gifted,undefined,1
+Gifted,jkjunkrat,20
+Gifted,redhawkpistol13,5
+Bits,jkjunkrat,101
+Gifted,riskyrooster_,5
+Gifted,kbos414,20
+Bits,redhawkpistol13,100
+Gifted,kbos414,1
+Gifted,kbos414,1
+Gifted,jkjunkrat,1
+Gifted,kmsmith915,5
